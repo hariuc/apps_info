@@ -1,1 +1,1 @@
-# apps_info
+# Apps info
